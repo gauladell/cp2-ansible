@@ -12,5 +12,7 @@ AZR_TAG: ""
 
 ## Crear archivo inventory en el que añadir:
 
+```yaml
 [podman]
 <lista de hosts en los que queremos ejecutar los procesos de podman>
+```
